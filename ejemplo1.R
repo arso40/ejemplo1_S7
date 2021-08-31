@@ -4,3 +4,4 @@
 auto <- mtcars
 head(auto)
 summary(auto)
+tail(auto)
